@@ -1,0 +1,20 @@
+524990,Baku,Baku,18:44,16
+326754,Luxembourg,Luxembourg,19:40,19
+872025,Los Angeles,Los Angeles,20:20,12
+153578,Luxembourg,Luxembourg,23:28,94
+579458,Lahore,Lahore,14:40,89
+35493,Bogota,Bogota,1:36,15
+523109,Baku,Baku,13:12,50
+405456,Rome,Rome,16:0,8
+607268,Paris,Paris,21:52,1
+238650,London,London,2:24,54
+85906,London,London,14:0,46
+208304,Berlin,Berlin,16:32,95
+566917,Lahore,Lahore,18:0,0
+716318,Istanbul,Istanbul,20:8,44
+703646,Moscow,Moscow,16:44,49
+644762,Los Angeles,Los Angeles,23:40,31
+874549,Luxembourg,Luxembourg,13:16,51
+43086,Rome,Rome,16:0,5
+864443,Bogota,Bogota,17:4,87
+178905,Prague,Prague,21:16,57
